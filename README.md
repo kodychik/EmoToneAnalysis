@@ -13,7 +13,7 @@ EmoTone Analyzer is an advanced emotion detection system that utilizes k-Nearest
 To set up the EmoTone Analyzer, follow these steps:
 
 ```bash
-git clone [Your Repository URL]
+git clone https://github.com/kodychik/EmoToneAnalysis
 cd EmoTone
 
 install requirements as given in ipynb file.
